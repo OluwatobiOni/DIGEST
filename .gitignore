@@ -1,0 +1,13 @@
+# RStudio session files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Environment files
+.Renviron
+.Rprofile
+
+# Raw data folder should NOT be tracked
+data/raw/
+temp/
