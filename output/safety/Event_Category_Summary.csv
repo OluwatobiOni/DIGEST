@@ -1,0 +1,4 @@
+treatment_group,n_events_AE,n_events_SAE (Other),n_events_MACE,n_subjects_AE,n_subjects_SAE (Other),n_subjects_MACE
+control,80,0,0,27,0,0
+intervention,113,1,0,45,1,0
+NA,15,0,1,8,0,1

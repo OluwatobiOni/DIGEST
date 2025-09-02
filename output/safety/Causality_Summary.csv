@@ -1,0 +1,4 @@
+treatment_group,n_events_not related,n_events_possibly related,n_events_probably related,n_events_definitely related,n_subjects_not related,n_subjects_possibly related,n_subjects_probably related,n_subjects_definitely related
+control,11,66,3,0,8,26,2,0
+intervention,20,73,18,3,16,40,15,1
+NA,1,9,5,1,1,7,3,1

@@ -1,0 +1,4 @@
+treatment_group,n_events_mild,n_events_moderate,n_events_severe,n_subjects_mild,n_subjects_moderate,n_subjects_severe
+control,71,9,0,26,7,0
+intervention,100,11,3,43,7,3
+NA,14,1,1,8,1,1

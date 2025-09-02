@@ -1,0 +1,4 @@
+treatment_group,n_subjects,total_aes,subjects_with_aes,total_saes,subjects_with_saes,total_mace,subjects_with_mace,total_made,subjects_with_made,total_person_months,ae_incidence_rate_per_pm,sae_incidence_rate_per_pm,mace_incidence_rate_per_pm,made_incidence_rate_per_pm
+control,27,80,27,NA,1,0,0,0,0,107.06307490144545,74.72,NA,0,0
+intervention,46,114,46,1,1,0,0,0,0,165.44021024967145,68.91,0.6,0,0
+NA,8,16,8,1,1,1,1,0,0,0,Inf,Inf,Inf,NA
