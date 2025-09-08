@@ -9,5 +9,5 @@
 .Rprofile
 
 # Raw data folder should NOT be tracked
-data/raw/
+data/
 temp/
