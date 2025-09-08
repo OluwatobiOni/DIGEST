@@ -9,5 +9,15 @@
 .Rprofile
 
 # Raw data folder should NOT be tracked
-data/
+data/raw/
 temp/
+
+# 1. DO NOT TRACK THE ENTIRE DATA FOLDER (PATIENT DATA)
+# This will ignore the entire 'data' folder and all its contents.
+data/
+
+# 2. IGNORE SPECIFIC FILES WITHIN THE 'documents' FOLDER
+# This ignores only the specified files within the 'documents' folder.
+documents/DIGEST_SAP.pdf
+documents/DIGEST_Protocol.pdf
+documents/DIGEST_Troubleshooting.docx
